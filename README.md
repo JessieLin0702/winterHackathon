@@ -2,3 +2,4 @@
 
 Group member: 
 Jessie Lin
+Vanna Lee
